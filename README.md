@@ -8,15 +8,15 @@ It produces result in binary format, which is used to predict outcome of an cate
 In linear the value we need to predict actually in a range but in Logistic its a discrete i.e,  for e.g,either 0 or 1.
 # Implementing Logistic regression
       # Collect Data
-Our dataset is titanic having 12 atributes mixing for string values, categorical and quantitative also.
-      # Analysing Data
-It ensures better understanding of the relationships among the attributes by visualized them with help of graph     
-      # Data Wrangling 
-It means cleaning the data for better performance of the model. It may be handling with null or missing values, dicretization of attribute values etc
-      # Train & Test
-spliting train and test data, model selection, fitting training data to the model, Predict using test data
-      # Acuuracy check
-different parameters measures can be use to check the accuracy for the model ie. evaluation parameters of a model can be diffrent like confussion matrix etc
+Our dataset is titanic having 12 atributes mixing for string values, categorical and quantitative also\n.
+      # Analysing Data\n
+It ensures better understanding of the relationships among the attributes by visualized them with help of graph\n     
+      # Data Wrangling\n
+It means cleaning the data for better performance of the model. It may be handling with null or missing values, dicretization of attribute values etc\n
+      # Train & Test\n
+spliting train and test data, model selection, fitting training data to the model, Predict using test data\n
+      # Acuuracy check\n
+different parameters measures can be use to check the accuracy for the model ie. evaluation parameters of a model can be diffrent like confussion matrix etc\n
 ## All these steps have been followed in this survival prediction task by taking titanic dataset 
 ## Thank You
    
